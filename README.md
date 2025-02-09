@@ -13,3 +13,5 @@ Evaluation
 Submissions to this competition are evaluated by their Average Perplexity, with lower scores ranked better.
 
 Submissions comprise texts that are permutations of words given in the sample_submission.csv file. We compute the perplexity of each submitted sequence of words with respect to the Gemma 2 9B model. Your final score is the average perplexity across all sequences.
+
+link : https://www.kaggle.com/competitions/santa-2024/ 
